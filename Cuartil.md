@@ -16,9 +16,8 @@ Texto sin alinear
 <p align="center">
 Texto alineado
   <b>Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  
+  ![image](https://github.com/ipalominog/indra/assets/143540301/05a4b042-15a9-4db7-802c-d60747312b9a)
   <br><br>
   <img src="https://78.media.tumblr.com/a2b1c618a96bc1a7f85c0df0c2becbb8/tumblr_mrowch3MIn1sbav3bo1_500.gif">
 </p>
