@@ -14,12 +14,7 @@ En caso de error con el origen, utilizar la documentación de [Errores Frecuente
 Texto sin alinear
 
 <p align="center">
-Texto alineado
-  <b>Links:</b><br>
-  
-  ![image](https://github.com/ipalominog/indra/assets/143540301/05a4b042-15a9-4db7-802c-d60747312b9a)
-  <br><br>
-  <img srcset="[https://78.media.tumblr.com/a2b1c618a96bc1a7f85c0df0c2becbb8/tumblr_mrowch3MIn1sbav3bo1_500.gif](https://github.com/ipalominog/indra/assets/143540301/05a4b042-15a9-4db7-802c-d60747312b9a).jpg">
+  <img srcset="https://github.com/ipalominog/indra/assets/143540301/05a4b042-15a9-4db7-802c-d60747312b9a">
 </p>
 
 Texto sin alinear
