@@ -1,6 +1,6 @@
 La plantilla de Cuartil, tiene el siguiente esquema. Así mismo, es importante que se respete la ruta que utiliza la data.
 
-![image](https://github.com/ipalominog/indra/assets/143540301/ec2568b3-eefc-4caf-a783-5c7b3e8be9d6)
+![image](https://github.com/ipalominog/indra/assets/143540301/05a4b042-15a9-4db7-802c-d60747312b9a)
 
 Para actualizar el archivo nos ubicamos en una celda de cualquier tabla dinámica y damos clic en Actualizar Todo, ubicado en la pestaña Datos.
 
