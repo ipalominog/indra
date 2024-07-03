@@ -6,3 +6,6 @@ Se debe validar el origen y modificarlo, utilizando el nuevo origen donde hemos 
 
 ![image](https://github.com/ipalominog/indra/assets/143540301/7fbfdb47-771a-4e77-bdc5-219aac970ebc)
 
+Posterior debemos actualizar el archivo dentro de la interfaz de PQ.
+
+![image](https://github.com/ipalominog/indra/assets/143540301/9dc7dedd-b24e-4135-88db-98031afeea90)
