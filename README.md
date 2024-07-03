@@ -1,3 +1,5 @@
 # indra
 
-![image](https://github.com/ipalominog/indra/assets/143540301/20055cb7-6175-4117-97eb-d026efc2de21)
+## Descargar la data de KIPU
+### Archivo Rellamadas (Diarío)
+En la opción 9.2 debemos descargar el archivo "DETALLE_REITERADAS_Y_TRANSFERENCIAS_..." con la fecha actual.
