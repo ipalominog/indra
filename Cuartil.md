@@ -1,7 +1,8 @@
 La plantilla de Cuartil, tiene el siguiente esquema. Así mismo, es importante que se respete la ruta que utiliza la data.
 
 <p align="center">
-  <img src="[https://78.media.tumblr.com/a2b1c618a96bc1a7f85c0df0c2becbb8/tumblr_mrowch3MIn1sbav3bo1_500.gif](https://github.com/ipalominog/indra/assets/143540301/05a4b042-15a9-4db7-802c-d60747312b9a)">
+  
+![image](https://github.com/ipalominog/indra/assets/143540301/05a4b042-15a9-4db7-802c-d60747312b9a)
 </p>
 
 ![image](https://github.com/ipalominog/indra/assets/143540301/05a4b042-15a9-4db7-802c-d60747312b9a)
